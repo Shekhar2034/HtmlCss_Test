@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    /* border: 1px solid black; */
+    max-width: 100%;
+    height: 1000px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 400;
+    background: url("../images/fc2.jpg") no-repeat;
+    background-size: 100% 70%;
+    /* background-attachment: scroll; */
+}
+
+.navbar{
+    /* border: 1px solid green; */
+    margin: auto;
+    margin: 0 25px;
+    display: flex;
+    background: transparent;
+    /* z-index: ; */
+}
+
+.navbar img{
+    /* border: 1px solid purple; */
+    height: 50px;
+    width: 50px;
+    align-items: center;
+}
+
+.link ul{
+    /* border: 1px solid yellow; */
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    cursor: pointer;
+    color: white;
+}
+
+.search li{
+    /* border: 1px solid red; */
+    /* align-items: center; */
+    position: relative;
+    left: 38rem;
+    list-style-type: none;
+    color: white;
+}
+
+.bodyImg{
+    border: 1px solid lightblue;
+    position: relative;
+    top: 30rem;
+}
+

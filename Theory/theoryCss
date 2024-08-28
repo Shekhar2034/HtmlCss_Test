@@ -1,0 +1,47 @@
+Ans1.  Css is a cascading style sheets.
+       By using css we can give design to our html structure.
+       We can place object whereever we want to place by using css.
+
+
+Ans2. There are 3 ways to apply Css in html
+        a. inline <h1 color="blue"></h1>
+        b internal css <head><style>h1{color : red}</style></head>
+        c. external css - by creating another css file <head><link rel="stylesheet" href="index.css"></head>
+
+
+Ans3. inline css - inline css use in between tags only by writting html code.
+      internal css - we can use in head tag by using style tag and can write all css code.
+      external css - by creating another css file and attached to html file.
+
+
+Ans5. there are different types of selectors 
+        a. id selector by using (#) symbol.
+        b. class selector by using (.) symbol.
+        3. pseudo selector by using (*) symbol.
+
+
+Ans 6. difference between id and class - 
+            id we can use for one time but class we can use multiple time.
+
+
+Ans9. by using flex property we can create a layout .
+
+
+Ans10.  difference between postions.
+        a.position - relative by using these property we can place from its actual postion. 
+        b.position - absolute by using these property we can place from the top of the body.
+        c.postion - fixed by using these property we can place the code fixed it will remain fixed from all side and cannot move.
+
+
+Ans12.  by using margin property we can adjust our code from margin of the body.
+        by using padding property we can adjust our code from its parent element.
+
+
+Ans13. By using media query we can make our website fully responsive.
+
+
+Ans17. by using transition we can make animation smooth and can change as per requirement. By using animation we can only 
+        animate the code but if we use transtion it will actual work.
+
+
+Ans

@@ -1,0 +1,59 @@
+Ans1. 1.Html is a hyper text markup language.
+      2.Html is a body structure.
+      3.
+
+
+Ans2. 1.Html is old version where some functions can't work properly.
+      2.HTML5 is new version by using <!DOCTYPE html>.
+      
+      
+Ans6. 1. Div - by using div element it contain whole width from right to left and if we use another div it will place below the first div.
+      2. Span - by using span tag its contain only as per our data, we can use another span tag aside of first span tag.
+      
+      
+Ans7. We create hyperlink by using anchor tag with href. Href is used to link pages
+        <a href="www.google.com">Google</a>
+        
+        
+Ans8. There are 6 heading tag. Starting from h1 to h6
+      h1 tag is biggest tag and having bold font.
+      h6 tag is smallest tag and having less font. 
+
+
+Ans9. We use alt attribute in img tag because if the image does not load aur having error to load then by using alt attribute we can send
+        a message of type of that image.
+        
+
+Ans10. there are two types of list tag <ol> tag and <ul> tag 
+            ol tag is a ordered list tag which we can give numbers, alphabets, numericals and roman numbers.
+            ul tag is a unordered list tag which we can desribes as a dots,square, empty circles,etc.
+            
+            
+Ans11. by using table tag we can create table by using <thead>, <tbody>
+        thead is used to write heading.
+        tbody is used to write contents of related heading.
+        
+        
+Ans 13. we can use form for registration,login,etc.
+        bu using <form action=""></form> we can create forms.
+
+
+Ans14. The purpose of action is if we want to perform an action by clicking the submit button.
+    eg. <form action="index.html">
+        <!-- contents -->
+    </form>
+
+
+Ans15. we can create different files and can attached our html files by using external resources
+    for including css we use <link> tag
+    for javascript we use <script></script> tag.
+
+
+Ans 18. difference between id and class - 
+            id we can use for one time but class we can use multiple time 
+
+
+Ans19. by using <script></script> tag in head it will perform first and then perform body code.
+       by using <script></script> tag in body it will perform last after the body code.
+
+
